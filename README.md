@@ -1,1 +1,2 @@
 # NBADataAnalysis
+Simple analysis of NBA player data from the 2022-2023 Season. Main goal is comparing a player's salary against their playing time, points per game, and assists per game. Also a simple machine learning linear regression algorithm was attempted that tried to predict a players salary based off of their playing time, points per game, and assists per game. Little accuracy was achieved with this algorithm. This was most likely due to a small data set since only data from one season was used.
